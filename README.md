@@ -10,10 +10,6 @@ An AI-powered study platform built with Next.js, TypeScript, and Claude AI. Feat
 - Multi-language support (English, Spanish, French)
 - Classroom management for teachers
 
-[View Repository](https://github.com/alexisjdiamond/study-wizard)
-
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexisjdiamond&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisjdiamond&layout=compact&theme=radical)
