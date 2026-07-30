@@ -1,15 +1,27 @@
-# Hi, I'm Alexis Diamond
+# Hi, I'm Alexis Diamond 👋
 
-## My Projects
+Educator and builder working at the intersection of **AI and learning** — I design and ship AI-powered tools that help students learn and faculty teach, from autonomous agents to full-stack, cross-platform apps.
 
-### Study Wizard
-An AI-powered study platform built with Next.js, TypeScript, and Claude AI. Features include:
-- Intelligent test generation from study materials
-- Multiple question types (multiple choice, fill-in-blank, matching, and more)
-- Spaced repetition for optimized learning
-- Multi-language support (English, Spanish, French)
-- Classroom management for teachers
+🔗 [rctvsobs.org](https://rctvsobs.org) &nbsp;·&nbsp; <!-- LinkedIn / site: add here -->
 
 ---
+
+## Projects
+
+### 🧠 [SupaNerd](https://github.com/alexisjdiamond/supanerd-showcase) — AI study platform
+Turns any learning material (handwritten notes, PDFs, lecture docs) into interactive, adaptive practice tests and study guides. Cross-platform (web + native iOS/Android), Claude vision extraction, FSRS spaced repetition, AI "proctor" feedback.
+`Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Claude` · `Capacitor`
+
+### ✅ [GWiz](https://github.com/alexisjdiamond/gwiz-showcase) — AI grading assistant for professors
+Grades student submissions against a rubric, **runs student code against test cases** (Judge0), and drafts feedback the professor reviews and edits before it goes out. Security-audited.
+`Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Claude` · `Judge0`
+
+### 🤖 [Coursebuilder Agent](https://github.com/alexisjdiamond/coursebuilder-agent-showcase) — autonomous lesson-plan reviser
+A human-in-the-loop AI agent (Chrome extension) that revises lesson plans from real class transcripts via a **typed-diff pipeline** — analyze → diagnose → draft → apply, with confidence-gated approval and a provider-neutral, streaming LLM client.
+`JavaScript` · `Chrome Extension (MV3)` · `Claude` · `Gemini` · `OpenAI`
+
+---
+
+> Each linked repository is a **curated showcase** — architecture, engineering highlights, and screenshots. Source is private to protect IP; happy to walk through the code live or grant access on request.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexisjdiamond&show_icons=true&theme=radical&count_private=true)
