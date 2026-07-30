@@ -6,6 +6,8 @@ Measurement scientist and builder of learning tools — Ph.D. under Donald Rubin
 
 🎓 **[Minerva University faculty profile →](https://www.minerva.edu/people/alexis-diamond-ph-d/)**
 
+💼 **[LinkedIn](https://www.linkedin.com/in/alexis-diamond-1654638/)** &nbsp;·&nbsp; 📚 **[Google Scholar](https://scholar.google.com/citations?user=MZrtnMYAAAAJ)** (18,000+ citations)
+
 ---
 
 ## Projects
