@@ -4,6 +4,8 @@ Measurement scientist and builder of learning tools — Ph.D. under Donald Rubin
 
 🔗 **[rctvsobs.org](https://rctvsobs.org)** — co-founder: the first open portal of paired RCT / observational benchmark datasets
 
+🎓 **[Minerva University faculty profile →](https://www.minerva.edu/people/alexis-diamond-ph-d/)**
+
 ---
 
 ## Projects
