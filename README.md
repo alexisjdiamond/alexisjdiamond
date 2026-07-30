@@ -22,6 +22,10 @@ Grades student submissions against a rubric, **runs student code against test ca
 A human-in-the-loop AI agent (Chrome extension) that revises lesson plans from real class transcripts via a **typed-diff pipeline** — analyze → diagnose → draft → apply, with confidence-gated approval and a provider-neutral, streaming LLM client.
 `JavaScript` · `Chrome Extension (MV3)` · `Claude` · `Gemini` · `OpenAI`
 
+### 🎙️ [Class Transcriber](https://github.com/alexisjdiamond/class-transcriber-showcase) — one-click class-recording transcription
+Chrome extension + a local Whisper backend that captures auth automatically and transcribes **on-device** (privacy-preserving), with batch scheduling and PDF/CSV/JSON output. Team project — I directed and supervised development.
+`JavaScript` · `Chrome Extension (MV3)` · `Python` · `Whisper`
+
 ---
 
 > Each linked repository is a **curated showcase** — architecture, engineering highlights, and screenshots. Source is private to protect IP; happy to walk through the code live or grant access on request.
