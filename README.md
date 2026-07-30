@@ -1,8 +1,8 @@
 # Hi, I'm Alexis Diamond 👋
 
-Educator and builder working at the intersection of **AI and learning** — I design and ship AI-powered tools that help students learn and faculty teach, from autonomous agents to full-stack, cross-platform apps.
+Measurement scientist and builder of learning tools — Ph.D. under Donald Rubin, co-author of the **synthetic control method**, and Minerva University's first **AI Fellow**. I design and ship LLM-based tools for teaching and learning.
 
-🔗 [rctvsobs.org](https://rctvsobs.org) &nbsp;·&nbsp; <!-- LinkedIn / site: add here -->
+🔗 **[rctvsobs.org](https://rctvsobs.org)** — co-founder: the first open portal of paired RCT / observational benchmark datasets
 
 ---
 
