@@ -6,7 +6,7 @@ Measurement scientist and builder of learning tools — Ph.D. under Donald Rubin
 
 🎓 **[Minerva University faculty profile →](https://www.minerva.edu/people/alexis-diamond-ph-d/)**
 
-💼 **[LinkedIn](https://www.linkedin.com/in/alexis-diamond-1654638/)** &nbsp;·&nbsp; 📚 **[Google Scholar](https://scholar.google.com/citations?user=MZrtnMYAAAAJ)** (18,000+ citations) &nbsp;·&nbsp; 📄 **[CV (PDF)](https://github.com/alexisjdiamond/alexisjdiamond/blob/master/Alexis-Diamond-CV.pdf)**
+💼 **[LinkedIn](https://www.linkedin.com/in/alexis-diamond-1654638/)** &nbsp;·&nbsp; 📚 **[Google Scholar](https://scholar.google.com/citations?user=MZrtnMYAAAAJ)** (19,000+ citations) &nbsp;·&nbsp; 📄 **[CV (PDF)](https://github.com/alexisjdiamond/alexisjdiamond/blob/master/Alexis-Diamond-CV.pdf)**
 
 ---
 
@@ -21,7 +21,7 @@ Grades student submissions against a rubric, **runs student code against test ca
 `Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Claude` · `Judge0`
 
 ### 🤖 [Coursebuilder Agent](https://github.com/alexisjdiamond/coursebuilder-agent-showcase) — autonomous lesson-plan reviser
-A human-in-the-loop AI agent (Chrome extension) that revises lesson plans from real class transcripts via a **typed-diff pipeline** — analyze → diagnose → draft → apply, with confidence-gated approval and a provider-neutral, streaming LLM client.
+A human-in-the-loop AI agent (Chrome extension) that revises lesson plans from real class transcripts via a **typed-diff pipeline** — analyze → diagnose → draft → apply, with every change proposed for human approval and a provider-neutral, streaming LLM client.
 `JavaScript` · `Chrome Extension (MV3)` · `Claude` · `Gemini` · `OpenAI`
 
 ### 🎙️ [Class Transcriber](https://github.com/alexisjdiamond/class-transcriber-showcase) — one-click class-recording transcription
