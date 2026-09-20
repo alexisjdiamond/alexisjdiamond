@@ -17,7 +17,7 @@ Turns any learning material (handwritten notes, PDFs, lecture docs) into interac
 `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Claude` · `Capacitor`
 
 ### ✅ [GWiz](https://github.com/alexisjdiamond/gwiz-showcase) — AI grading assistant for professors
-Grades student submissions against a rubric, **runs student code against test cases** (Judge0), and drafts feedback the professor reviews and edits before it goes out. Security-audited.
+Grades student submissions against a rubric, **runs student code against test cases** (Judge0), and drafts feedback the professor reviews and edits before it goes out.
 `Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Claude` · `Judge0`
 
 ### 🤖 [Coursebuilder Agent](https://github.com/alexisjdiamond/coursebuilder-agent-showcase) — autonomous lesson-plan reviser
