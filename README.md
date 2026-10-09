@@ -1,12 +1,20 @@
 # Hi, I'm Alexis Diamond 👋
 
-Measurement scientist and builder of learning tools — Ph.D. under Donald Rubin, co-author of the **synthetic control method**, and Minerva University's first **AI Fellow**. I design and ship LLM-based tools for teaching and learning.
+Measurement scientist and builder of learning tools — Ph.D. under Donald Rubin, co-author of the **synthetic control method**, and Minerva University's first **AI Fellow**. I design and ship LLM-based tools for teaching and learning. Now applying measurement-validity methods to AI safety: does an evaluation measure what it claims to, and does a model's stated reasoning explain its behavior?
 
 🔗 **[rctvsobs.org](https://rctvsobs.org)** — co-founder: the first open portal of paired RCT / observational benchmark datasets
 
 🎓 **[Minerva University faculty profile →](https://www.minerva.edu/people/alexis-diamond-ph-d/)**
 
 💼 **[LinkedIn](https://www.linkedin.com/in/alexis-diamond)** &nbsp;·&nbsp; 📚 **[Google Scholar](https://scholar.google.com/citations?user=MZrtnMYAAAAJ)** (16,000+ citations) &nbsp;·&nbsp; 📄 **[CV (PDF)](https://github.com/alexisjdiamond/alexisjdiamond/blob/master/Alexis-Diamond-CV.pdf)**
+
+---
+
+## AI safety work (in progress)
+
+🔬 **What explains Llama 3 405B's compliance gap?** Llama 3 405B complies with harmful requests more often when it is told it is being trained. I identify the specific requests where its behavior depends on that cue, then test which reading of its written reasoning predicts them, to see whether the field's standard definition of alignment faking tracks the behavior it is meant to explain. *BlueDot Impact Technical AI Safety Project Sprint.*
+
+📘 **Training:** BlueDot Impact Technical AI Safety (completed Sept. 2026) · BlueDot Technical AI Safety Project Sprint (in progress) · GEAR, an ARENA-based alignment research course (in progress, Oct.–Dec. 2026)
 
 ---
 
