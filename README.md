@@ -10,11 +10,13 @@ Measurement scientist and builder of learning tools — Ph.D. under Donald Rubin
 
 ---
 
-## AI safety work (in progress)
+## AI safety & biosecurity work (in progress)
 
 🔬 **What explains Llama 3 405B's compliance gap?** Llama 3 405B complies with harmful requests more often when it is told it is being trained. I identify the specific requests where its behavior depends on that cue, then test which reading of its written reasoning predicts them, to see whether the field's standard definition of alignment faking tracks the behavior it is meant to explain. *BlueDot Impact Technical AI Safety Project Sprint.*
 
 📘 **Training:** BlueDot Impact Technical AI Safety (completed Sept. 2026) · BlueDot Technical AI Safety Project Sprint (in progress) · GEAR, an ARENA-based alignment research course (in progress, Oct.–Dec. 2026)
+
+🧬 **Facilitator, AIxBio Africa:** Introduction to AI & Biosecurity: An African Perspective (Cohort 1, 2026)
 
 ---
 
