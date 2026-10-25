@@ -1,6 +1,6 @@
 # Hi, I'm Alexis Diamond 👋
 
-Measurement scientist and builder of learning tools — Ph.D. under Donald Rubin, co-author of the **synthetic control method**, and Minerva University's first **AI Fellow**. I design and ship LLM-based tools for teaching and learning. Now applying measurement-validity methods to AI safety: does an evaluation measure what it claims to, and does a model's stated reasoning explain its behavior?
+Measurement scientist and builder of learning tools — Ph.D. under Donald Rubin, co-author (with Alberto Abadie and Jens Hainmueller) of the foundational papers on the **synthetic control method**, and Minerva University's first **AI Fellow**. I design and ship LLM-based tools for teaching and learning. Now applying measurement-validity methods to AI safety: does an evaluation measure what it claims to, and does a model's stated reasoning explain its behavior?
 
 🔗 **[rctvsobs.org](https://rctvsobs.org)** — co-founder: the first open portal of paired RCT / observational benchmark datasets
 
@@ -10,11 +10,13 @@ Measurement scientist and builder of learning tools — Ph.D. under Donald Rubin
 
 ---
 
-## AI safety & biosecurity work (in progress)
+## AI safety & biosecurity work
 
-🔬 **What explains Llama 3 405B's compliance gap?** Llama 3 405B complies with harmful requests more often when it is told it is being trained. I identify the specific requests where its behavior depends on that cue, then test which reading of its written reasoning predicts them, to see whether the field's standard definition of alignment faking tracks the behavior it is meant to explain. *BlueDot Impact Technical AI Safety Project Sprint.*
+📄 **[Who Took the Hint? Applying Methods of Causal Inference to Evaluate Chain of Thought Monitorability](https://github.com/alexisjdiamond/who-took-the-hint)** — Agent Evaluation Science symposium, New York, November 2026. Intervention-based evaluations of chain-of-thought monitorability have the structure of an encouragement design. Read that way, the standard monitorability score grades monitors against a different quantity from the one they are meant to detect, so a correctly computed score can support the wrong conclusion. *Paper, online supplement and LaTeX source.*
 
-📘 **Training:** BlueDot Impact Technical AI Safety (completed Sept. 2026) · BlueDot Technical AI Safety Project Sprint (in progress) · GEAR, an ARENA-based alignment research course (in progress, Oct.–Dec. 2026)
+🎓 **Secondary advisor, AI Safety Capstone** (Minerva University, 2026–27): nine student research projects on reward hacking, evaluation integrity, deception detection, monitoring and unlearning
+
+📘 **Training:** BlueDot Impact Technical AI Safety (completed Sept. 2026) · BlueDot Technical AI Safety Project Sprint (in progress) · GEAR, an ARENA-based alignment research course (in progress, Oct.–Dec. 2026) · Lens Academy Compute Verification 1 (in progress)
 
 🧬 **Facilitator, AIxBio Africa:** Introduction to AI & Biosecurity: An African Perspective (Cohort 1, 2026)
 
